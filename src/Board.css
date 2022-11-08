@@ -1,0 +1,17 @@
+.Board {
+  margin: 0 auto;
+  display: inline-block;
+  justify-content: center;
+}
+
+.Board-instructions{
+  text-align: center;
+}
+
+.Board-game{
+  background-color: brown;
+  display: flex;
+  justify-content: center;
+  
+}
+
